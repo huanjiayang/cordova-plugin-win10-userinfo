@@ -1,0 +1,1 @@
+# cordova-plugin-win10-userinfo
